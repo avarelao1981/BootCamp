@@ -25,7 +25,7 @@ public class HolaMundo {
         System.out.println(holaMundo.saludar("Alejandro Varela"));
         System.out.println(HolaMundo.saludo("Alejandro"));
     }
-
+    //Nuevo metodo
     //metodo
     public static String saludo(String nombre){
         return "Saludos a: " + nombre ;
